@@ -283,5 +283,6 @@ B.E. Computer Science Engineering (AI & ML)
 Chandigarh University
 
 GitHub: https://github.com/vaidehi84
+Project Streamlit Deployment Link : https://retail-sales-forecasting-customer-analytics-platform-12.streamlit.app/
 
 ---
